@@ -2,7 +2,7 @@
 name: ETC
 about: 버그인지, Oops 인지 모를 때 쓰는 양식입니다.
 title: "[ETC] 어떤 일이 있는지 간단히"
-labels: ''
+labels: answered, Duplicate, Feature-Request, help-wanted, question
 assignees: ''
 
 ---

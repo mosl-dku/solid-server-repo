@@ -2,7 +2,7 @@
 name: Bug Report
 about: 버그가 있어서 제보할 때 쓰는 양식입니다.
 title: "[Bug] 버그 내용 간단히"
-labels: ''
+labels: bug-confirmed, bug-mild, bug-moderate, bug-severe, Duplicate, finished, pending
 assignees: ''
 
 ---

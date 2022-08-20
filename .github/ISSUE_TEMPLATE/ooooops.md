@@ -2,7 +2,7 @@
 name: Ooooops
 about: IP 차단, 계정 까먹음, 비밀번호 초기화, 등...
 title: "[Oops] 문제 내용 간단히"
-labels: ''
+labels: finished, pending
 assignees: ''
 
 ---
